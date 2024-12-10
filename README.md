@@ -22,12 +22,12 @@ This case study focuses on developing and applying Convolutional Neural Networks
        - The study uses the Bonn EEG dataset, containing 500 full signals (400 seizures, 100 non-seizures) and 11,500 short signals (2,300 seizures, 9,200 non-seizures).
 
 # Results
-## - Performance Metrics
-        - Achieved 99% accuracy for short signals and 90% accuracy for full signals.
-        - High accuracy in detecting seizure patterns validates CNN effectiveness for clean, structured data.
-## - Challenges
-        - Full signal accuracy was lower due to limited data.
-        - Future testing on noisy, real-world data is recommended.
+- ## Performance Metrics
+  - Achieved 99% accuracy for short signals and 90% accuracy for full signals.
+  - High accuracy in detecting seizure patterns validates CNN effectiveness for clean, structured data.
+- ## Challenges
+  - Full signal accuracy was lower due to limited data.
+  - Future testing on noisy, real-world data is recommended.
 
 # Recommendations
 1. Fine-tune CNN parameters for better accuracy on full signals.
