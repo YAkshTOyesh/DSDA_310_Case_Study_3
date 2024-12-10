@@ -17,7 +17,7 @@ This case study focuses on developing and applying Convolutional Neural Networks
 
 ## 3. Datasets
    - Files
-       - CS_3_Datasets
+       - Datasets Folder
    - Description
        - The study uses the Bonn EEG dataset, containing 500 full signals (400 seizures, 100 non-seizures) and 11,500 short signals (2,300 seizures, 9,200 non-seizures).
 
