@@ -2,7 +2,7 @@
 This case study focuses on developing and applying Convolutional Neural Networks (CNNs) for detecting seizures using EEG data in Bonn Dataset. It highlights the use of machine learning to automate seizure detection and provides insights into neurological disorders.
 
 # Repository Contents
-## 1. Reports
+## 1. Report
    - Files
       - Case_Study_3_Report.pdf
       - Case_Study_3_Slides.pdf
