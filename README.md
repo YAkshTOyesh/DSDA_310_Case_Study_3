@@ -33,3 +33,14 @@ This case study focuses on developing and applying Convolutional Neural Networks
 1. Fine-tune CNN parameters for better accuracy on full signals.
 2. Test model on noisy datasets and real-world scenarios.
 3. Develop user-friendly interfaces for medical professionals.
+
+# Skills
+Below is a list of skills we acquired during this project:
+- Signal Processing
+- Signal Data Exploration
+- CNN Model Architecture (Including Pooling Layer, Convolution Layer and Activation Functions)
+- Machine Learning Training Strategies (Epochs, Batch Size, Loss Function, Optimizer, Patience)
+- Machine Learning Evaluation Techniques(Accuracy, Precision, Recall)
+- Python
+- TensorFlow
+- Scikit Learn
